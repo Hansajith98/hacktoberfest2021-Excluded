@@ -1,0 +1,16 @@
+n = int(input("Enter the number for Fibonacci Series: "))
+
+assert n != 0 and int(n) == n, "Enter the Positive number"  # If condition is not satisfied then show the error
+
+ele1 = 0  # 1st Element
+ele2 = 1  # 2nd Element
+sum1 = 0  # Sum combination of 1st and 2nd element
+lst = []
+
+for i in range(1, n):
+    lst.append(ele1)  # This will store the list of Fibonacci series
+    sum1 = ele1 + ele2  # This will produce the second element for the series
+    ele1 = ele2 
+    ele2 = sum1
+    
+print(lst) # Final Output
