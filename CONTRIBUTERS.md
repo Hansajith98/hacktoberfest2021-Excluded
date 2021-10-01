@@ -9,3 +9,4 @@
 |  Ysh shah |[yashshah2002](https://github.com/yashshah2002)|         3       |
 |   Searath    |   [deshitha98](https://github.com/deshitha98)    |   4    |
 |   Thimira Madusanka   |   [Thimira97](https://github.com/Thimira97)    |   5    |
+|   Dulaj Nadawa   |   [dnadawa](https://github.com/dnadawa)    |   6    |
