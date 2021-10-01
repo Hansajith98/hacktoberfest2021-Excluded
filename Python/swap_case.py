@@ -5,7 +5,7 @@ def swap_case(s):            #Defining a function called swap_case
             res=res+letter.upper()  #Converting the lowercase characters to uppercase characters
         else:
             res=res+letter.lower() #Converting the uppercase characters to lowercase characters
-    return res
+    print(res)
 s=input("Enter a string:")
 swap_case(s)     #Calling the function
     
