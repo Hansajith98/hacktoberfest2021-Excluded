@@ -76,6 +76,6 @@ Contributions of any kind welcome!
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Deshitha Hansajith] (https://www.linkedin.com/in/deshitha-hansajith/)
+[Deshitha Hansajith](https://www.linkedin.com/in/deshitha-hansajith/)
 
-README.md styling motivation credit goes to [Keshav Singh ] (https://github.com/keshavsingh4522/hacktoberfest2021)
+README.md styling motivation credit goes to [Keshav Singh ](https://github.com/keshavsingh4522/hacktoberfest2021)
