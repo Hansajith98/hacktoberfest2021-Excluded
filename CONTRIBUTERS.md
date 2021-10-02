@@ -26,3 +26,5 @@
 | Daniele Del Giudice | [Daniele Del Giudice](https://github.com/danieledelgiudice) |
 | Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
 | Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
+| Hiruni Senevirathne  | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)       |
+
