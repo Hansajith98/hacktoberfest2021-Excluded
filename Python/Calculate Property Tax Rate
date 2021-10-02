@@ -1,0 +1,14 @@
+# How to calculate Property Tax Rates? 
+# Annual property tax is calculated by multiplying the Annual Value (AV) of the property with the Property Tax Rates that apply to you .
+
+print("===]  Calculation Property Tax Rates  [===")
+
+annualValue = float(input("Annual Value : "))
+print("Total Annual Value : " , annualValue)
+
+taxRates = float(input("Tax Rates : "))
+print("Tax Rates : " , taxRates)
+
+# Calculation ROE
+CountTaxRate = annualValue * (taxRates/100)
+print("You would pay : " , CountTaxRate)
