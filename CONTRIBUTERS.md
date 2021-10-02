@@ -23,4 +23,5 @@
 | Anurag M | [v1nc1d4](https://github.com/v1nc1d4/) | 
 | Nunu M | [justnunuz](https://github.com/JustNunuz) | 
 | Nishant Sabbarwal | [Nishant3007](https://github.com/Nishant3007)   | 
-| Sachini Karunarathne       | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
+| Hiruni Senevirathne | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)  | 
+
