@@ -13,3 +13,5 @@
 |   Subhamay Paul      |   [Subho-codegeek](https://github.com/Subho-codegeek)         |         11        |
 |   Anthony Rafael   |   [Anthony-Citizen](https://github.com/Anthony-Citizen)   |  12  |
 | NMORTHA | [nmortha](https://github.com/nmortha)|13|
+| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq		|	14	|
+|   Bagas Ahmad S   |   [bagasahmad](https://github.com/bagasahmad)    |   15    |
