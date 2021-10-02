@@ -1,7 +1,3 @@
-[JaswanthRemiel](GitHub.com/JaswanthRemiel)
-[nilupulmanodya](github.com/nilupulmanodya/)
-[yash shah](github.com/yashshah2002)
-
 | Name                 | Github                                                        | Starred the repo |
 | -------------------- | ------------------------------------------------------------- | ---------------- |
 | Deshitha Hansajith                 | [hansajith98](https://github.com/hansajith98)                              |         1        |
