@@ -1,0 +1,9 @@
+pyttsx3
+pyaudio
+selenium
+playsound
+SpeechRecognization
+webbrowser
+youtube_dl
+googleapiclient
+ffmpeg
