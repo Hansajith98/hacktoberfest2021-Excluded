@@ -26,7 +26,8 @@
 > Upload your code in this repository to particular section if folder is not present then create folder.
 > some more repos for contribution
 > Make PR to the dev branch
-> Make Sure to Starr this project.
+
+Make Sure to Starr this project.
 
 | Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | 
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
