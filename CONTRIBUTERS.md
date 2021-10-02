@@ -13,7 +13,7 @@
 |   Subhamay Paul      |   [Subho-codegeek](https://github.com/Subho-codegeek)         |         
 |   Anthony Rafael   |   [Anthony-Citizen](https://github.com/Anthony-Citizen)   |  
 | NMORTHA | [nmortha](https://github.com/nmortha)|
-| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq		|	
+| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq)		|	
 |   Bagas Ahmad S   |   [bagasahmad](https://github.com/bagasahmad)    |   
 | Muhammad Shafa | [MuShaf-NMS](https://github.com/MuShaf-NMS) | 
 | liam sj               | [liamsj0605](https://github.com/Liam0605)   |	
