@@ -27,6 +27,8 @@
 > some more repos for contribution
 > Make PR to the dev branch
 
+Make Sure to Star this project.
+
 | Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | 
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | [Python](https://github.com/Hansajith98/Python)         | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/Python?color=pink&logo=github)](https://github.com/keshavsingh4522/Hansajith98/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/Python?style=social&logo=github)](https://github.com/keshavsingh4522/Hansajith98/pulls)         | 
