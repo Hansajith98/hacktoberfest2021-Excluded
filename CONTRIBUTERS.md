@@ -11,3 +11,5 @@
 | Shayan Debroy | [shayan-cyber](https://github.com/shayan-cyber)		|	9	|
 |   Avyay Jain  |   [avyay jain](https://github.com/avyayjain)    |   10    |
 |   Subhamay Paul      |   [Subho-codegeek](https://github.com/Subho-codegeek)         |         11        |
+|   Anthony Rafael   |   [Anthony-Citizen](https://github.com/Anthony-Citizen)   |  12  |
+
