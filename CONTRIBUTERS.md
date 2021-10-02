@@ -10,6 +10,10 @@
 |   Searath    |   [deshitha98](https://github.com/deshitha98)    |   4    |
 |   Thimira Madusanka   |   [Thimira97](https://github.com/Thimira97)    |   5    |
 |   Dulaj Nadawa   |   [dnadawa](https://github.com/dnadawa)    |   6    |
-| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq		|	7	|
-| Anurag M | [v1nc1d4](https://github.com/v1nc1d4/) | 8 |
+| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq)		|	7	|
+| Shayan Debroy | [shayan-cyber](https://github.com/shayan-cyber)		|	16	|
+
+
+
+
 
