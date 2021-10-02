@@ -18,4 +18,6 @@
 | Muhammad Shafa | [MuShaf-NMS](https://github.com/MuShaf-NMS) | 16 |
 | liam sj               | [liamsj0605](https://github.com/Liam0605)   |	17	|  
 | Shayan Debroy | [shayan-cyber](https://github.com/shayan-cyber)		|	18	|
+| Aaryan Gupta | [Aaryan0424](https://github.com/Aaryan0424)		|	19	|
+
 
