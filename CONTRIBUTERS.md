@@ -24,3 +24,5 @@
 | Nunu M | [justnunuz](https://github.com/JustNunuz) | 
 | Nishant Sabbarwal | [Nishant3007](https://github.com/Nishant3007)   | 
 | Daniele Del Giudice | [Daniele Del Giudice](https://github.com/danieledelgiudice) |
+| Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
+| Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
