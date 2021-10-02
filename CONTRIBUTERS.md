@@ -26,4 +26,5 @@
 | Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
 | Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
 | Hiruni Senevirathne  | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)       |
+| Shubhit Sardana  | [Critical07](https://github.com/Critical07)       |
 
