@@ -26,5 +26,5 @@
 | Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
 | Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
 | Hiruni Senevirathne  | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)       |
-| Tiyasha Samanta | [ts4475] (https://github.com/ts4475) |
+| Tiyasha Samanta | [ts4475](https://github.com/ts4475) |
 
