@@ -25,4 +25,5 @@
 | Nishant Sabbarwal | [Nishant3007](https://github.com/Nishant3007)   | 
 | Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
 | Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
+| Soumyoneel Dey | [sd78912](https://github.com/sd78912) |
 
