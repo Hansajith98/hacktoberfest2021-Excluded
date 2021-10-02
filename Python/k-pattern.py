@@ -1,6 +1,7 @@
-for i in range(7):
-    for j in range(7):
-        if j == 0 or i - j == 3 or i + j == 3:
+n = int(input("Enter the value: "))
+for i in range(n):
+    for j in range(n):
+        if j == 0 or i - j == n/2 or i + j == n/2:
             print("*", end="")
         else:
             print(end=" ")
