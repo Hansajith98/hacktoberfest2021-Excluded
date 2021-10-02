@@ -10,7 +10,7 @@ window.geometry("600x250")
 window.configure(bg="darkred")
 window.resizable(False, False)
 
-clock_label = Label(window, bg="dark red", fg="white", font = ("Times", 100, 'bold'), relief='flat')
+clock_label = Label(window, bg="black", fg="white", font = ("Times", 100, 'bold'), relief='flat')
 clock_label.place(x = 20, y = 20)
 
 def update_label():
