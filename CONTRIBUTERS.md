@@ -23,5 +23,6 @@
 | Anurag M | [v1nc1d4](https://github.com/v1nc1d4/) | 
 | Nunu M | [justnunuz](https://github.com/JustNunuz) | 
 | Nishant Sabbarwal | [Nishant3007](https://github.com/Nishant3007)   | 
-Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
+| Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
+| Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
 
