@@ -1,0 +1,47 @@
+public class minJumpsArr {
+ 
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        int[] A = { 2, 3, 1, 1, 4 };
+        /*current index and number of jumps are zero initially*/
+        solve(0, A, 0);
+ 
+        if(minJumps == (int) 1e9 + 1)
+        {
+            /*if the min jumps is still infinity, this means it has
+             * never been updated that is, we did not reach the end
+             * index even once, hence answer is not possible in this
+             * case*/
+            System.out.println("Not Possible");
+        }
+        else {
+            System.out.println(minJumps);
+        }
+ 
+    }
+ 
+    /* global min variable to store the minimum number of
+     * jumps required to reach last index.*/
+    public static int minJumps = (int) 1e9 + 1;
+ 
+    public static void solve(int currIdx, int[] a, int jumps) {
+        /* base case : Case 1 - if current index is equal to last
+         * index (destination) update the global min jumps if the
+         * current number of jumps is lesser and return. 
+         * Case 2 - if current index is greater than the last index,
+         * simply return because this is not the result we are looking for*/
+        if (currIdx >= a.length - 1) {
+            if (currIdx == a.length - 1) {
+                minJumps = Math.min(minJumps, jumps);
+            }
+            return;
+        }
+        /*maximum length of any jump that can be made from this index*/
+        int reachableIdxs = a[currIdx];
+ 
+        /* recursive calls for all lengths of jump varying from 1 to max
+         * length and incrementing number of jumps by 1 in every call */
+        for (int jumpLength = 1; jumpLength <= reachableIdxs; jumpLength++) {
+            solve(currIdx + jumpLength, a, jumps + 1);
+        }
+    }
