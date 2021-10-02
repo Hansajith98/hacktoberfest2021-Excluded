@@ -16,3 +16,4 @@
 | Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq		|	14	|
 |   Bagas Ahmad S   |   [bagasahmad](https://github.com/bagasahmad)    |   15    |
 | Muhammad Shafa | [MuShaf-NMS](https://github.com/MuShaf-NMS) | 16 |
+| Daniele Del Giudice | [Daniele Del Giudice](https://github.com/danieledelgiudice) | 17 |
