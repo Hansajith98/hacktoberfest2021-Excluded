@@ -13,6 +13,6 @@
 | Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq		|	7	|
 
 |   Shayan Debroy   |   [shayan-cyber](https://github.com/shayan-cyber)    |   16  
-| Anurag M | [v1nc1d4](https://github.com/v1nc1d4/) | 8 |
+
 
 
