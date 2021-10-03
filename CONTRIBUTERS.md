@@ -38,3 +38,5 @@
 | Keshav R Karanth | [keshavrkaranth](https://github.com/keshavrkaranth) | 1 |
 | Anurag Tripathi | [triipaathii](https://github.com/triipaathii) | 26 |
 | Abhishek Kumar Dey | [abhishekdey4444](https://github.com/abhishekdey4444) |
+| Tejas Srivastava | [styxOO7](https://github.com/styxOO7) | 
+
