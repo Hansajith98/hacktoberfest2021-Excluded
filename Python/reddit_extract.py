@@ -22,4 +22,5 @@ def subreddit_extraction(subreddit):
 
 
 if __name__ == "__main__":
-    subreddit_extraction(subreddit_extraction())
+    sub_reddit = "all" # Enter the subreddit you want to extract
+    subreddit_extraction(subreddit_extraction(sub_reddit))
