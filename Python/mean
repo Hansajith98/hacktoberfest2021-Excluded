@@ -1,0 +1,7 @@
+l = input("Type multiple numbers separated by ',': ")
+numbers = l.split(",")
+sum = 0
+for n in numbers:
+    sum += int(n)
+mean = sum/len(numbers)
+print("The mean of numbers is {}".format(mean))
