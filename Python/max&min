@@ -1,0 +1,13 @@
+l = input("Type multiple numbers separated by ',': ")
+numbers = list(map(int, l.split(",")))
+
+max_val = numbers[0]
+min_val = numbers[0]
+
+for n in numbers:
+    if n > max_val:
+        max_val = n
+    if n < min_val:
+        min_val = n
+
+print("The maximum and minimum value of numbers is {} and {}".format(max_val, min_val))
