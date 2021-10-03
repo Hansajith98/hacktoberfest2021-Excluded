@@ -1,0 +1,55 @@
+{% extends "hotelcheckin_register/base.html" %}
+
+{% block content %}
+<table class="table table-bordered table-dark">
+    <thead class="thead-dark border-bottom font-weight-bold">
+        <tr>
+            <td>FULL NAME</td>
+            <td>CONTACT</td>
+            <td>ROOM-TYPE</td>
+            <td class="d-flex justify-content-center">EMAIL</td>
+            <td>GENDER</td>
+            <td>CHECKIN STATUS</td>
+            <td>AGE</td>
+            <td>DOJ</td>
+            <td>INCOME</td>
+            <td class="d-flex justify-content-center">ADDRESS</td>
+            <td>IMAGE</td>
+            <td>
+                <a href="{% url 'hotel_insert' %}" class="btn btn-outline-success">
+                    <i class="fas fa-plus"></i> Add__New
+                </a>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        {% for hotel in hotel_list %}
+            <tr>
+                <td>{{ hotel.fullname }}</td>
+                <td>{{ hotel.contact }}</td>
+                <td class="d-flex justify-content-center">{{ hotel.roomtype }}</td>
+                <td>{{ hotel.email }}</td>
+                <td class="d-flex justify-content-center">{{ hotel.gender }}</td>
+                <td>{{ hotel.checkstatus }}</td>
+                <td>{{ hotel.age }}</td>
+                <td>{{ hotel.date_of_join }}</td>
+                <td>{{ hotel.income }}</td>
+                <td>{{ hotel.address }}</td>
+                <td><img src="{{hotel.hotelImg.url}}" alt="" width=50 height=50></td>
+                <td>
+                    <a href="{% url 'hotel_update' hotel.id %}" class="btn text-secondary px-0">
+                        <i class="far fa-edit fa-lg"></i>
+                    </a>
+                    <form action="{% url 'hotel_delete' hotel.id %}" method="post" class="d-inline">
+                        {% csrf_token %}
+                        <button type="submit" class="btn">
+                            <i class="far fa-trash-alt fa-lg text-danger float-right"></i>
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock content %}
