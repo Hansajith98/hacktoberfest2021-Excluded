@@ -31,8 +31,9 @@
 | Hiruni Senevirathne  | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)       |
 | gitlogin97  | [gitlogin97](https://github.com/gitlogin97)       |
 | Shubhit Sardana  | [Critical07](https://github.com/Critical07)       |
-| Jill Oestreicher | [jilloestreicher](https://github.com/jilloestreicher) | 23 |
+| Jill Oestreicher | [jilloestreicher](https://github.com/jilloestreicher) | 23 |=
 | Burhan B | [burhannn](https://github.com/burhannn)   | 
 | Tiyasha Samanta | [ts4475](https://github.com/ts4475) |
 | Myoung Jin | [Think-JIn99](https://github.com/Think-JIn99)    |
 | Keshav R Karanth | [keshavrkaranth](https://github.com/keshavrkaranth) | 1 |
+| Anurag Tripathi | [triipaathii](https://github.com/triipaathii) | 26 |
