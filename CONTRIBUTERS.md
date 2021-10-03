@@ -1,5 +1,6 @@
 | Name                 | Github                                                        | Starred the repo |
 | -------------------- | ------------------------------------------------------------- | ---------------- |
+| Harsh Parekh  | [@notmarshmllow](https://github.com/notmarshmllow) | 26 |
 | Deshitha Hansajith                 | [hansajith98](https://github.com/hansajith98)                              |         1        |
 | Nilupul Manodya       | [nilupulmanodya](https://github.com/nilupulmanodya/)       |         2        |
 |  Ysh shah |[yashshah2002](https://github.com/yashshah2002)|         3       |
