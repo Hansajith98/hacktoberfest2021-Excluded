@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fill in the blanks</title>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <h3>Fill in the blanks</h3>
+        <p id="dir"><strong>Directions:</strong> Read the following sentences and choose the most appropriate word.</p>
+
+        <div class="question"></div>
+        <div class="ansBox">
+            <label for="input1" class="label" onclick="selectedOption(this)" value="1">
+                <input type="radio" name="option" class="radio" value="1" />
+                <span class="choice1"></span>
+            </label>
+
+            <label for="input2" class="label" onclick="selectedOption(this)" value="2">
+                <input type="radio" name="option" class="radio" value="2" />
+                <span class="choice2"></span>
+            </label>
+
+            <label for="input3" class="label" onclick="selectedOption(this)" value="3">
+                <input type="radio" name="option" class="radio" value="3" />
+                <span class="choice3"></span>
+            </label>
+
+            <label for="input4" class="label" onclick="selectedOption(this)" value="4">
+                <input type="radio" name="option" class="radio" value="4" />
+                <span class="choice4"></span>
+            </label>
+        </div>
+
+        <div class="pageEnd">
+            <button class="btnPre">Previous</button>
+            <button class="btnNxt">Next</button>
+        </div>
+
+    </div>
+
+</body>
+
+<!-- javascripts -->
+<script type="text/javascript" src="main.js"></script>
+
+</html>
