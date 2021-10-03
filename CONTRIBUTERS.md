@@ -1,5 +1,6 @@
 | Name                 | Github                                                        | Starred the repo |
 | -------------------- | ------------------------------------------------------------- | ---------------- |
+| Harsh Parekh  | [@notmarshmllow](https://github.com/notmarshmllow) | 26 |
 | Deshitha Hansajith                 | [hansajith98](https://github.com/hansajith98)                              |         1        |
 | Nilupul Manodya       | [nilupulmanodya](https://github.com/nilupulmanodya/)       |         2        |
 |  Ysh shah |[yashshah2002](https://github.com/yashshah2002)|         3       |
@@ -25,7 +26,15 @@
 | Nishant Sabbarwal | [Nishant3007](https://github.com/Nishant3007)   | 23 |
 | Daniele Del Giudice | [Daniele Del Giudice](https://github.com/danieledelgiudice) |
 | Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
-| Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       |
+| Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
+| Soumyoneel Dey | [sd78912](https://github.com/sd78912) | 27 |
 | Hiruni Senevirathne  | [HiruniSenevirathne](https://github.com/HiruniSenevirathne)       |
-| Jill Oestreicher | [jilloestreicher](https://github.com/jilloestreicher) | 23 |
+| gitlogin97  | [gitlogin97](https://github.com/gitlogin97)       |
+| Shubhit Sardana  | [Critical07](https://github.com/Critical07)       |
+| Jill Oestreicher | [jilloestreicher](https://github.com/jilloestreicher) | 23 |=
+| Burhan B | [burhannn](https://github.com/burhannn)   | 
+| Tiyasha Samanta | [ts4475](https://github.com/ts4475) |
+| Myoung Jin | [Think-JIn99](https://github.com/Think-JIn99)    |
+| Keshav R Karanth | [keshavrkaranth](https://github.com/keshavrkaranth) | 1 |
+| Anurag Tripathi | [triipaathii](https://github.com/triipaathii) | 26 |
 | Abhishek Kumar Dey | [abhishekdey4444](https://github.com/abhishekdey4444) |
