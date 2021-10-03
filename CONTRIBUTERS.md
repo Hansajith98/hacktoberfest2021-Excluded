@@ -25,6 +25,7 @@
 | Nunu M | [justnunuz](https://github.com/JustNunuz) | 22 |
 | Nishant Sabbarwal | [Nishant3007](https://github.com/Nishant3007)   | 23 |
 | Daniele Del Giudice | [Daniele Del Giudice](https://github.com/danieledelgiudice) |
+| Siddartha Aggarwal | [Mammoth](https://github.com/mammothneck) | 25 |
 | Mahesha Kandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi)  |
 | Sachini Karunarathne  | [SachiniKarunarathne](https://github.com/SachiniKarunarathne)       | 
 | Soumyoneel Dey | [sd78912](https://github.com/sd78912) | 27 |
