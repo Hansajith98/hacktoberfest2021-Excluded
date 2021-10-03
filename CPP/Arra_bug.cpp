@@ -7,7 +7,7 @@ vector<int> rotateArray(vector<int> &A, int B) {
 
 	vector<int> ret; 
 	int j=0;
-
+ 
 	B=B%(A.size());
 
 	for (int i = 0; i < A.size(); ++i)
