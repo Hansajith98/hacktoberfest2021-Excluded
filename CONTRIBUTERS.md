@@ -39,4 +39,4 @@
 | Anurag Tripathi | [triipaathii](https://github.com/triipaathii) | 26 |
 | Abhishek Kumar Dey | [abhishekdey4444](https://github.com/abhishekdey4444) |
 | Tejas Srivastava | [styxOO7](https://github.com/styxOO7) | 
-
+| Praneet Chakraborty | [praneet1001](https://github.com/praneet1001) | 24 |
