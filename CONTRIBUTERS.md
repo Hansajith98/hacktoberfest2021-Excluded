@@ -1,5 +1,6 @@
 | Name                 | Github                                                        | Starred the repo |
 | -------------------- | ------------------------------------------------------------- | ---------------- |
+| Wallace Leonel | [wallaceleonel](https://github.com/wallaceleonel) |18  |
 | Harsh Parekh  | [@notmarshmllow](https://github.com/notmarshmllow) | 26 |
 | Deshitha Hansajith                 | [hansajith98](https://github.com/hansajith98)                              |         1        |
 | Nilupul Manodya       | [nilupulmanodya](https://github.com/nilupulmanodya/)       |         2        |
@@ -50,5 +51,6 @@
 | Titas Nath | [react-ions](https://github.com/react-ions) |  |
 | NMORTHA | [nmortha](https://github.com/nmortha)||
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
+
 
 
