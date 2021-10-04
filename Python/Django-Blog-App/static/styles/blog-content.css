@@ -1,0 +1,25 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    margin: 5rem auto;
+    background-color: #ffffff;
+    max-width: 800px;
+    width: 100%;
+}
+
+.title{
+    margin: 5rem;
+    text-align: center;
+}
+
+.post-body{
+    padding: 20px;
+    line-height: 1.8rem;
+}
+
+.post-body h2{
+    margin: 1rem;
+    font-weight: 700px;
+    text-align: center;
+}
+
