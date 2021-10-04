@@ -51,6 +51,7 @@
 | Titas Nath | [react-ions](https://github.com/react-ions) |  |
 | NMORTHA | [nmortha](https://github.com/nmortha)||
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
+| Pravigya Jain | [pravigya](https://github.com/pravigya) |  |
 
 
 
