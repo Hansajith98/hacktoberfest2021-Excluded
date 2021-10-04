@@ -47,6 +47,7 @@
 |Soumya Mohanty|[Soumya111v](https://github.com/Soumya111v)|40|
 | Bharath C S | [bharath-acchu](https://github.com/bharath-acchu) | 27 |
 | Sourav Ghosh| [varous7](https://github.com/varous7) |  
+| Mano Santana| [manosantana](https://github.com/mano4santana) |  
 | Shravya| [ShravyaMallya](https://github.com/ShravyaMallya) | 
 | Titas Nath | [react-ions](https://github.com/react-ions) |  |
 | NMORTHA | [nmortha](https://github.com/nmortha)||
