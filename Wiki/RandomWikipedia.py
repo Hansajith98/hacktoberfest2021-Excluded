@@ -1,9 +1,8 @@
+# $********IMPORTING MODULES*********$
 import requests
 from bs4 import BeautifulSoup
 import random
 import wikipedia
-
-# $********IMPORTING MODULES*********$
 import tkinter
 from tkinter import *
 
@@ -13,7 +12,6 @@ wind.title("WIKI SCRAPER")
 wind.geometry("800x600")
 wind.resizable(width=False, height=False)
 wind.config(bg="grey")
-global linkToScrape
 linkToScrape = "https://en.wikipedia.org/wiki/Programming_language"
 
 
