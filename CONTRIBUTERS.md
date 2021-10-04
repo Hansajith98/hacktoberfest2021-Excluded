@@ -48,4 +48,4 @@
 | Sourav Ghosh| [varous7](https://github.com/varous7) |  
 | Shravya| [ShravyaMallya](https://github.com/ShravyaMallya) | 
 | Titas Nath | [react-ions](https://github.com/react-ions) |  |
-
+| Brighty Thomas Babu | [brighty281](https://github.com/brighty281) |  |
