@@ -27,6 +27,8 @@
 > some more repos for contribution
 > Make PR to the dev branch
 
+Make Sure to Star this project.
+
 | Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | 
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | [Python](https://github.com/Hansajith98/Python)         | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/Python?color=pink&logo=github)](https://github.com/keshavsingh4522/Hansajith98/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/Python?style=social&logo=github)](https://github.com/keshavsingh4522/Hansajith98/pulls)         | 
@@ -53,25 +55,9 @@
 Steps for adding your name below
 
     1. Fork this repo
-    2. Edit `CONTRIBUTERS.md` file
-    3. Add your Name also link your github profile
-    4. Make pull request
+    2. Add your Name also link your github profile
+    3. Make pull request
 
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<table><tr></tr></table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Contributions of any kind welcome!
-
->    NOTE: if you should be on the list of contributors but we forgot you, don't be shy and let us know!
 
 ## License
 

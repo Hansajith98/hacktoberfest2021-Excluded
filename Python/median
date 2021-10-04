@@ -1,0 +1,10 @@
+l = input("Type multiple numbers separated by ',': ")
+numbers = list(map(int, l.split(",")))
+length = len(numbers)
+midpoint = length // 2
+median = 0
+if length % 2 == 1:
+    median = numbers[midpoint]
+else:
+    median = (numbers[midpoint] + numbers[midpoint - 1]) / 2
+print("The median of numbers is {}".format(median))

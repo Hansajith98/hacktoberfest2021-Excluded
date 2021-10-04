@@ -9,6 +9,7 @@ class Main {
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
 
+     System.out.println("Simple Calculator");
     // ask users to enter operator
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
@@ -19,7 +20,8 @@ class Main {
 
     System.out.println("Enter second number");
     number2 = input.nextDouble();
-
+     
+      System.out.println("Result :");
     switch (operator) {
 
       // performs addition between numbers

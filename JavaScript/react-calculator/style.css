@@ -1,0 +1,97 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Orbitron");
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(#ffffff, #dddddd);
+}
+
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#calculator {
+  width: 20em;
+  height: 27em;
+  background-color: #eeeeee;
+  border-radius: 1em;
+  border: 0.2em solid #a2a2a2;
+  box-shadow: 0 1em #a2a2a2;
+  display: flex;
+  flex-direction: column;
+}
+
+#screen {
+  height: 6em;
+  background: #6da379;
+  margin: 1.5em;
+  font-family: "Orbitron", monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 1em;
+  border-radius: 0.3em;
+  border: 0.2em solid #4c7855;
+}
+
+#screen #display {
+  font-size: 1.8em;
+}
+
+#screen #display:empty:before {
+  content: "​";
+}
+
+#screen #history {
+  font-size: 1em;
+}
+
+#screen #history:empty:before {
+  content: "​";
+}
+
+#keys {
+  margin: 0 2em 2em 2em;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 0.8em 0.5em;
+  flex-grow: 1;
+  height: 100%;
+}
+
+#keys .key {
+  width: 100%;
+  height: 100%;
+  font-family: "Orbitron", monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #de3434;
+  box-shadow: 0 0.3em #aa1c1c;
+  border-radius: 0.3em;
+  box-sizing: border-box;
+  transition: box-shadow 0.1s ease-in, transform 0.1s ease-in;
+  border: 0.1em solid #aa1c1c;
+  cursor: pointer;
+}
+
+#keys .key:active {
+  box-shadow: 0 0.1em #aa1c1c;
+  transform: translatey(0.2em);
+}
+
+#keys .key span {
+  font-size: 1.2em;
+  user-select: none;
+}
