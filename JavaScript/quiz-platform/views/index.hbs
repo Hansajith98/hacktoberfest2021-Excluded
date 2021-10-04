@@ -1,0 +1,29 @@
+<div class="top_bar">
+    <a href={{data.endPoint}}><button class="oauth_btn">Login with Amity.edu</button></a>
+    {{#if data.currentUser}}
+    <a href='/play'><button id="start_btn">Start the Quiz</button></a>
+    {{/if}}
+    <h1 id="quiz_name">Junior Quiz</h1>
+    <hr>
+</div>
+<div class="rules">
+    <h1 id="rules_h1">Rules</h1>
+    <ul id="rules">
+        {{#if data.currentUser}}
+        <div class="start_text">
+            <p>Pressing the Start button will start the quiz; you will only get one attempt at each question. <span>All the best!</span></p>
+        </div>
+        {{/if}}
+        <li>There are a total of 15 questions, all fill in the blanks.</li>
+        <li>The spacing and letter casing don't matter.<br>
+        For example, 'Foo Bar' and 'foobar' will be the same</li>
+        <li>A <span>maximum of 60 seconds</span> will be given for each question. Any answer after that will be marked incorrect. A timer is present at the top of the screen for your reference. The questions will not change automatically, therefore, it’s your job to press the submit button well within the time limit.</li>
+        <li>For each correct answer, you will get <span>120 - (number of seconds * 2)</span> points.<br>
+        For example, if Timothy answers the first question correct in 12 seconds, he will receive 100 - 12*2 i.e. 76 points for it.</li>
+        <li>For each incorrect answer, your points will be <span>negated by the time taken</span> on that particular question in seconds.<br>
+        For example, if Timothy answers the second question incorrect in 17 seconds, his total score will be negated by 17 points.<br>
+        So after two questions, Timothy's final score would be 76-17 i.e. 59 points.</li>
+        <li><span>Switching tabs/windows, reloading, minimising, or changing the URL</span> is not permitted. Doing so will automatically mark that question as incorrect.</li>
+        <li>Needless to say, any evidence found of cheating or partnering will lead to immediate disqualification.</li>
+    </ul>
+</div>
