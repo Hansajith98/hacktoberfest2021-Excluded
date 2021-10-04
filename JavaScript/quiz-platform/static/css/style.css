@@ -1,0 +1,236 @@
+/* Main layout */
+
+* {
+    font-family: "Lexend Deca" !important;
+}
+
+body {
+    background-color: #000;
+    min-height: 100vh;
+    overflow-x: hidden;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+#ts_logo {
+    width: 4.5vw;
+    height: auto;
+    float: left;
+}
+
+.container {
+    flex: 1 1 auto; 
+}
+
+.footer {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    margin: 20px 0 0 0;
+    bottom: 0;
+}
+
+#footer_text {
+    text-align: center;
+}
+
+/* toasts */
+
+.toast {
+    position: fixed;
+    top: 0;
+    right: 2vw;
+    margin: auto;
+    float: right;
+    width: 15vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    background: #cccccc;
+    color: #000;
+    text-align: center;
+    border: 1px solid #aaaaaa;
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    visibility: hidden;
+    opacity: 0;
+}
+
+.toast--visible {
+    top: 5vh;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.2s, top 0.2s, visibility 0.2s;
+}
+
+.toast--success {
+    background: #16e;
+    border-color: rgb(0, 44, 116);
+    color: #fff;
+}
+
+/* /play */
+
+#heading {
+    margin-left: 20vw;
+    margin-top: 8vh;
+    font-size: 3.5vw;
+    font-weight: normal;
+}
+
+#user_welcome {
+    margin-left: 15vw;
+    font-weight: normal;
+    margin-top: -1vh;
+}
+
+#play_hr {
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-bottom: 1vh;
+}
+
+.box {
+    width: 50vw;
+    height: auto;
+    border: 1px solid #fff;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    position: absolute;
+    margin-top: 35vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box h1{
+    text-align: center;
+    margin: auto;
+    font-weight: normal;
+}
+
+.box p {
+    font-size: 1.2vw;
+}
+
+.box img {
+    width: 10vw;
+    height: auto;
+}
+
+#timer {
+    float: right;
+    position: relative;
+    color: #16e16e;
+    font-size: 2vw;
+    margin-top: -9%;
+    margin-right: -2.5%;
+}
+
+input[type=text], select {
+    width: 88%;
+    background-color: #5a5a5a;
+    padding: 6px 12px;
+    color: #fff;
+    margin: 8px 0;
+    border: 1px solid rgb(102, 133, 184);
+    outline: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input:focus {
+    border: 1px solid #16e16e;
+}
+
+input[type=submit] {
+    width: 11%;
+    background-color: #28a745;
+    color: #fff;
+    padding: 6px 12px;
+    border: 1px solid rgb(102, 133, 184);
+    border-radius: 4px;
+    margin: 8px 0;
+    float: right;
+    cursor: pointer;
+}
+
+::placeholder {
+    color: #8d8d8d
+}
+  
+/* /index */
+
+a {
+    text-decoration: none;
+}
+
+span {
+    color: #16e16e
+}
+
+.top_bar {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    overflow-x: auto;
+}
+
+#quiz_name {
+    font-size: 6.5vh;
+}
+
+.oauth_btn {
+    width: auto;
+    background-color: rgb(41,59,143);
+    color: #fff;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    height: 6.5vh;
+    float: right;
+    margin-top: 2vw;
+}
+
+.rules {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    line-height: 1.6;
+}
+
+#rules_h1 {
+    text-align: center;
+    font-weight: normal;
+}
+
+#rules {
+    font-size: 3vh;
+}
+
+.start_text {
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+#start_btn {
+    width: auto;
+    background-color: #28a745;
+    color: #fff;
+    float: right;
+    height: 6.5vh;
+    margin-right: 1vw;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 2vw;
+}
+
+/* /fin */
+
+#fin {
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
