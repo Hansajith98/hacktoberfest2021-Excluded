@@ -39,4 +39,4 @@ public class BinarySearch {
     }
 }
 
-//Code is contributed by Shubham Singh
+//Code is contributed by Shubham Kumar
