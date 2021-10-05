@@ -52,6 +52,8 @@
 | Titas Nath | [react-ions](https://github.com/react-ions) |  |
 | NMORTHA | [nmortha](https://github.com/nmortha)||
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
-| Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| 
+| Samarth Kumar | [some-earth11](https://github.com/some-earth11) |  |
+| Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| |
+
 
 
