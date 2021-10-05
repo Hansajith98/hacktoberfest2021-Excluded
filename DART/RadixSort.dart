@@ -22,6 +22,7 @@ void countSort(List array, int n, int exp){
         array[i] = output[i];
     }
 }
+
 // Function to find max of the array
 int getMax(List array, int n){
     int max_value = array[0];
@@ -32,6 +33,7 @@ int getMax(List array, int n){
     }
     return max_value;
 }
+
 // Function to sort an array using radix sort
 void radix_sort(List array, int n){
     int max_value = getMax(array, n);
@@ -39,6 +41,7 @@ void radix_sort(List array, int n){
         countSort(array, n, exp);
     }
 }
+
 // Driver method of the program.
 void main(){
     print("Enter number of elements in the array:");
@@ -64,3 +67,4 @@ void main(){
  * 10 9 8 7 6 5 4 3 2 1
  * 1 2 3 4 5 6 7 8 9 10
  */
+
