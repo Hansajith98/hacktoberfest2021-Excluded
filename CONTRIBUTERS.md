@@ -54,6 +54,6 @@
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
 | Samarth Kumar | [some-earth11](https://github.com/some-earth11) |  |
 | Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| |
-| Mishra Vaibhav | [mishu-mnp](https://github.com/mishu-mnp) | 0 | 
+| Mishra Vaibhav | [mishu-mnp](https://github.com/mishu-mnp) | 3 | 
 
 
