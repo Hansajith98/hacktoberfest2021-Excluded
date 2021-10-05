@@ -15,7 +15,7 @@
 |   Subhamay Paul      |   [Subho-codegeek](https://github.com/Subho-codegeek)         |         11        |
 |   Anthony Rafael   |   [Anthony-Citizen](https://github.com/Anthony-Citizen)   |  12  |
 | NMORTHA | [nmortha](https://github.com/nmortha)|13|
-| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq		|	14	|
+| Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq)		|	14	|
 |   Bagas Ahmad S   |   [bagasahmad](https://github.com/bagasahmad)    |   15    |
 | Muhammad Shafa | [MuShaf-NMS](https://github.com/MuShaf-NMS) | 16 |
 | liam sj               | [liamsj0605](https://github.com/Liam0605)   |	17	|  
@@ -54,6 +54,6 @@
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
 | Samarth Kumar | [some-earth11](https://github.com/some-earth11) |  |
 | Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| |
-
+| Panji Nurhusni | [nurhusni](https://github.com/nurhusni) | |
 
 
