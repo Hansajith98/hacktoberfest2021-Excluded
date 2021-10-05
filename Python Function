@@ -1,0 +1,12 @@
+#!/usr/bin/python
+
+# Function definition is here
+def sum( arg1, arg2 ):
+   # Add both the parameters and return them."
+   total = arg1 + arg2
+   print "Total : ", total
+   return total;
+
+# call sum function
+total = sum( 20, 50 );
+print "After the function call: ", total 
