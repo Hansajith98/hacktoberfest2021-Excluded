@@ -1,8 +1,6 @@
  ```diff
-- PR limit is reached. Please use another Repository
+- *** PR limit is reached. Please use another Repository ***
 ```
-
-<span style="color:orange;">Word up</span>
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
