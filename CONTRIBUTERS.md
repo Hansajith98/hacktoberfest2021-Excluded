@@ -59,6 +59,7 @@
 | Abhishek Gupta | [Abhishek Gupta](https://github.com/abhs06) |68 |
 | Shelly Chouhan | [shelly-chouhan](https://github.com/shelly-chouhan) | |
 | Afif Islam | [afif0993](https://github.com/afif0993) | |
+| Subhadip De | [@subhadipde](https://github.com/subhadipde) | 1 |
 | Ujjwal Paul | [@ujjwalpaul005](https://github.com/ujjwalpaul005) | 1 |
 
 
