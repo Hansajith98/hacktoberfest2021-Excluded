@@ -1,5 +1,6 @@
 | Name                 | Github                                                        | Starred the repo |
 | -------------------- | ------------------------------------------------------------- | ---------------- |
+| Ayush Pratap Singh | [ayushpratap344](https://github.com/ayushpratap344) | 1 |
 | Wallace Leonel | [wallaceleonel](https://github.com/wallaceleonel) |18  |
 | Harsh Parekh  | [@notmarshmllow](https://github.com/notmarshmllow) | 26 |
 | Deshitha Hansajith                 | [hansajith98](https://github.com/hansajith98)                              |         1        |
