@@ -1,4 +1,4 @@
-<h1 style="background-color:red"> PR limit is reached. Please use another Repository  </h1>
+<h1 style="color:red"> PR limit is reached. Please use another Repository  </h1>
 
 
 <p align="center">
