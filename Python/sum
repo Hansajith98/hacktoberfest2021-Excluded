@@ -1,0 +1,6 @@
+l = input("Type multiple numbers separated by ',': ")
+numbers = list(map(int, l.split(",")))
+sum = 0
+for n in numbers:
+    sum += n
+print("The sum of numbers is {}".format(sum))

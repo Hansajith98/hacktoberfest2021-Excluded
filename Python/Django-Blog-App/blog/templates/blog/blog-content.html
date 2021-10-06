@@ -1,0 +1,16 @@
+{% extends 'main.html' %}
+
+
+
+{% block content %}
+
+<h1 class="title">Content Page</h1>
+
+<div class="post">
+    <div class="post-body">
+        <h2>{{content.title}}</h2>
+        {{content.content | linebreaksbr}}
+    </div>
+  </div>
+
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends 'main.html' %}
+{% block content %}
+
+
+{% for post in posts %}
+<div class="blog-card">
+  <div class="meta">
+    <div class="photo" style="background-image: url(https://storage.googleapis.com/chydlx/codepen/blog-cards/image-1.jpg)"></div>
+    <ul class="details">
+      <li class="author"><a href="#">{{post.author}}</a></li>
+      <li class="date">{{post.date}}</li>
+      <li class="tags">
+        <ul>
+          <li><a href="#">{{post.category}}</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="description">
+    <h1>{{post.title}}</h1>
+    <h2>{{post.category}}</h2>
+    <p> {{post.content|slice:"290"}} </p>
+    <p class="read-more">
+      <a href="{% url 'delete-post' post.id%}">Delete</a>
+      <a href="{% url 'edit-post' post.id%}">Edit</a>
+      <a href="{% url 'blog-content' post.id%}">Read More</a>
+    </p>
+  </div>
+</div>
+
+{% endfor %}
+
+{% endblock %}

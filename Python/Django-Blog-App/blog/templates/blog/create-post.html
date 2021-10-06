@@ -1,0 +1,19 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<div class="container">
+<h1 class="title">Create Post</h1>
+
+<form class="form-field" method="POST" action="">
+    {% csrf_token %}
+    {% for field in form %}
+    <div>
+        <label>{{field.label}}</label>
+        {{field}}
+    </div>
+    {% endfor %}
+
+    <input type="submit" class="btn btn-success" value="Publish">
+</form>
+</div>
+{% endblock %}

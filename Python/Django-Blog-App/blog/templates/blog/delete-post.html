@@ -1,0 +1,12 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<form method="POST" action="">
+    {% csrf_token %}
+    <p style="margin-top: 5rem;">Are you Sure you want to delete this Post?</p>
+    <button class="btn btn-success"><a href="{% url 'blog' %}">Cancel</a></button>
+    <input type="submit" class="btn btn-danger" value="Delete Post">
+</form>
+
+
+{% endblock %}

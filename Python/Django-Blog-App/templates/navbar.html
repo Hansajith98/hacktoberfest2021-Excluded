@@ -1,0 +1,40 @@
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<nav id="navbar" class="">
+  <div class="nav-wrapper">
+    <!-- Navbar Logo -->
+    <div class="logo">
+      <!-- Logo Placeholder for Inlustration -->
+      <a href="#home"><i class="fa fa-angellist"></i> Logo</a>
+    </div>
+
+    <!-- Navbar Links -->
+    <ul id="menu">
+      <li><a href="#home">Home</a></li><!--
+   --><li><a href="#services">Blog</a></li><!--
+   --><li><a href="#about">About</a></li><!--
+   --><button type="button" class="btn btn-light"><a href="{% url 'create-post' %}">Create Post</a></button>
+      {% if request.user.is_authenticated %}
+      <button type="button" class="btn btn-primary"><a href="{% url 'logout' %}">Logout</a></button>
+      {% else %}
+      <button type="button" class="btn btn-primary"><a href="{% url 'login' %}">Login</a></button>
+      {% endif %}
+    </ul>
+  </div>
+</nav>
+
+
+<!-- Menu Icon -->
+<div class="menuIcon">
+  <span class="icon icon-bars"></span>
+  <span class="icon icon-bars overlay"></span>
+</div>
+
+
+<div class="overlay-menu">
+  <ul id="menu">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#blog">Blog</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+</div>
