@@ -1,5 +1,5 @@
  ```diff
-- <h1> PR limit is reached. Please use another Repository <h1>
+- PR limit is reached. Please use another Repository
 ```
 
 <p align="center">
