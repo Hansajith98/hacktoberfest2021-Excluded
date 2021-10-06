@@ -58,5 +58,5 @@
 | Panji Nurhusni | [nurhusni](https://github.com/nurhusni) | |
 | Shelly Chouhan | [shelly-chouhan](https://github.com/shelly-chouhan) | |
 | Afif Islam | [afif0993](https://github.com/afif0993) | |
-
+| Subhadip De | [@subhadipde](https://github.com/subhadipde) | 1 |
 
