@@ -58,5 +58,5 @@
 | Panji Nurhusni | [nurhusni](https://github.com/nurhusni) | |
 | Shelly Chouhan | [shelly-chouhan](https://github.com/shelly-chouhan) | |
 | Afif Islam | [afif0993](https://github.com/afif0993) | |
-
+| Ujjwal Paul | [@ujjwalpaul005](https://github.com/ujjwalpaul005) | 1 |
 
