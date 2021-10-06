@@ -52,6 +52,7 @@
 | Shravya| [ShravyaMallya](https://github.com/ShravyaMallya) | 
 | Titas Nath | [react-ions](https://github.com/react-ions) |  |
 | NMORTHA | [nmortha](https://github.com/nmortha)||
+| N B Patil | [nbpatil](https://github.com/NEELAKANTAGOUDAPATIL) | 8 |
 | Srijon Kumar | [noobSrijon](https://github.com/noobSrijon) |  |
 | Samarth Kumar | [some-earth11](https://github.com/some-earth11) |  |
 | Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| |
