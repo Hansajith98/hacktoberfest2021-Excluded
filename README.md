@@ -1,4 +1,4 @@
-<h1 style="color:red"> PR limit is reached. Please use another Repository  </h1>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` <h1> PR limit is reached. Please use another Repository  </h1>
 
 
 <p align="center">
