@@ -56,7 +56,10 @@
 | Samarth Kumar | [some-earth11](https://github.com/some-earth11) |  |
 | Dimuthu Lakshan | [Dimuthu-10](https://github.com/Dimuthu-10)| |
 | Panji Nurhusni | [nurhusni](https://github.com/nurhusni) | |
+| Abhishek Gupta | [Abhishek Gupta](https://github.com/abhs06) |68 |
 | Shelly Chouhan | [shelly-chouhan](https://github.com/shelly-chouhan) | |
 | Afif Islam | [afif0993](https://github.com/afif0993) | |
 | Subhadip De | [@subhadipde](https://github.com/subhadipde) | 1 |
+| Ujjwal Paul | [@ujjwalpaul005](https://github.com/ujjwalpaul005) | 1 |
+
 
