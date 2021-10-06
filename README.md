@@ -2,6 +2,8 @@
 - PR limit is reached. Please use another Repository
 ```
 
+<span style="color:orange;">Word up</span>
+
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/Hansajith98/hacktoberfest2021/main/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
