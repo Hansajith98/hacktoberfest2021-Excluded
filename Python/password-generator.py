@@ -11,10 +11,7 @@ new_num = [password.append(numbers[random.randint(0, 9)]) for i in range(0, 3)]
 new_num = [password.append(alphabet[random.randint(0, 50)]) for i in range(0, 5)]
 
 random.shuffle(password)
-def list_string(password):
-    string = ""
-    for i in password:
-        string += i
-    return string
+password_as_string = "".join(password)
+
 if __name__ == "__main__":
-    print(f"Here is your 10 digt random password: {list_string(password)}")
+    print(f"Here is your 10 digt random password: {password_as_string}")
