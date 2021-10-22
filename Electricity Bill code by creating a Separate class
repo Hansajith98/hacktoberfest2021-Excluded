@@ -1,0 +1,68 @@
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+import java.util.*; 
+class CalculateElectricityBill
+{	
+	double billpay;
+ 
+	CalculateElectricityBill(long units)
+	{
+  	  if(units<100)
+		billpay=units*1.20;
+	  else if(units<=300)
+		billpay=100*1.20+(units-100)*2;
+	  else if(units>300)
+		billpay=100*1.20+200 *2+(units-300)*3;
+	     
+         }	 
+ 
+	
+}
+class ComputeElectricityBill 
+{ 
+        public static void main(String args[]) 
+        {   
+	    long units;
+ 
+	    Scanner sc=new Scanner(System.in);
+ 
+	    System.out.println("enter number of units");
+	   
+            units=sc.nextLong();
+ 
+            CalculateElectricityBill b=new CalculateElectricityBill(units);
+        	
+      	    System.out.println("Bill to pay : " + b.billpay); 
+   } 
+}
